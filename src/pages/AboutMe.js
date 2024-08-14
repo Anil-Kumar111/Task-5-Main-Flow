@@ -7,9 +7,9 @@ const AboutMe = () => {
     <div className="about-me">
       <h1>About Me</h1>
       <img src={githubLogo} alt="GitHub Logo" />
-      <a href="https://github.com/ANKITHMOHAN1307">GitHub</a>
+      <a href="https://github.com/Anil-Kumar111">GitHub</a>
       <img src={linkedinLogo} alt="LinkedIn Logo" />
-      <a href="https://www.linkedin.com/in/ankith-mohan">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/anil-kumar-a9b555312">LinkedIn</a>
     </div>
   );
 }
