@@ -9,7 +9,7 @@ const Navbar = () => {
         <Link to="/about">About Me</Link>
       </div>
       <div className="nav-right">
-        Ankith Mohan
+        Anil Kumar
       </div>
     </nav>
   );
